@@ -13,7 +13,7 @@ Amount: This column provides the total amount of revenue generated from each sal
 
 Units: This column represents the number of units or quantity of the product sold during each transaction.
 
-The dataset contains a diverse set of sales transactions, involving various salespeople, products, and regions, and it provides information on the revenue generated and the quantity of products sold in each case. This data can be used for various sales analysis and reporting purposes, including understanding sales performance, product popularity, and regional trends.
+The dataset contains a diverse set of sales transactions, involving various salespeople, products, and regions, and it provides information on the revenue generated and the quantity of products sold in each case. This data has been used for various sales analysis and reporting purposes, including understanding sales performance, product popularity, and regional trends.
 
 
 
